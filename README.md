@@ -1,13 +1,10 @@
-
-# Portfolio-Website
-
 # 💼 Rakshith N — Developer Portfolio
 
 Welcome to my personal developer portfolio! This website is a reflection of my journey as a developer, showcasing my technical skills, projects, education, and experience in the tech industry.
 Hosted on GitHub Pages, this site is designed to be clean, responsive, and interactive.
 
 # 🌐 Live Demo
-🔗 [View My Portfolio](https://rakshith1078.github.io/Portfolio-Website)
+🔗 [View My Portfolio](https://rakshith1078.github.io/Portfolio-Website/)
 
 # 📁 Project Overview
 This portfolio was built to:
