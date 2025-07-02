@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Weather App",
+    "desc": "A weather forecast application using API integration to show real-time weather data based on user location or search.",
+    "image": "./assets/images/projects/image.png",
+    "category": "web",
+    "links": {
+      "view": "https://rakshith1078.github.io/weather-app/",
+      "code": "https://github.com/Rakshith1078/weather-app.git"
+    }
+  },
+  {
+    "name": "Music Player App",
+    "desc": "A custom-built music player app with play, pause, and playlist features, built using HTML, CSS, and JavaScript.",
+    "image": "./assets/images/projects/screenshot1.png",
+    "category": "web",
+    "links": {
+      "view": "https://rakshith1078.github.io/music-player-app/",
+      "code": "https://github.com/Rakshith1078/music-player-app.git"
+    }
+  },
+  {
+    "name": "Blog Website",
+    "desc": "A personal blog site featuring recent posts, categories, and interactive features like like/bookmark.",
+    "image": "./assets/images/projects/blogwebsite.png",
+    "category": "web",
+    "links": {
+      "view": "https://rakshith1078.github.io/Blog-Website/",
+      "code": "https://github.com/Rakshith1078/Blog-Website.git"
+    }
+  },
+  {
+    "name": "Road Accident Analysis",
+    "desc": "Data analysis project using Python and Power BI to visualize road accident trends and safety insights.",
+    "image": "./assets/images/projects/roadaccident.png",
+    "category": "data",
+    "links": {
+      "view": "https://github.com/Rakshith1078/FUTURE_DS_03/blob/main/Road_Accident_dashboard.pdf",
+      "code": "https://github.com/Rakshith1078/FUTURE_DS_03.git"
+    }
+  },
+  {
+    "name": "Social Media Trend Analysis",
+    "desc": "A data science project to analyze viral trends using NLP, sentiment analysis, and keyword extraction.",
+    "image": "./assets/images/projects/socialtrend.png",
+    "category": "data",
+    "links": {
+      "view": "https://github.com/Rakshith1078/FUTURE_DS_01/blob/main/socialmediatrendsdasnboard.pdf",
+      "code": "https://github.com/Rakshith1078/FUTURE_DS_01.git"
+    }
+  },
+  {
+    "name": "Customer Support Data Analysis",
+    "desc": "Analyzed customer satisfaction and resolution rates using sentiment analysis and weekly trend dashboards.",
+    "image": "./assets/images/projects/customersupport.png",
+    "category": "data",
+    "links": {
+      "view": "https://github.com/Rakshith1078/FUTURE_DS_02/blob/main/customer_support_tickets_dashboard.pdf",
+      "code": "https://github.com/Rakshith1078/FUTURE_DS_02.git"
+ }
+}
+]
