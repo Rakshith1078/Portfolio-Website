@@ -4,7 +4,7 @@ Welcome to my personal developer portfolio! This website is a reflection of my j
 Hosted on GitHub Pages, this site is designed to be clean, responsive, and interactive.
 
 # 🌐 Live Demo
-🔗 [View My Portfolio](https://rakshith1078.github.io/Portfolio-Website/)
+🔗 (https://rakshith1078.github.io/Portfolio-Website/)
 
 # 📁 Project Overview
 This portfolio was built to:
