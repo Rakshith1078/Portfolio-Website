@@ -1,22 +1,22 @@
-[
+ [
   {
-    "name": "HTML5",
-    "image": "./assets/images/skills/html.png"
+    "name": "c",
+    "image": "./assets/images/skills/c.png"
   },
-  {
-    "name": "CSS3",
+ {
+    "name": "css",
     "image": "./assets/images/skills/css.png"
   },
   {
-    "name": "JavaScript",
+    "name": "javascript",
     "image": "./assets/images/skills/javascript.png"
   },
   {
-    "name": "C",
-    "image": "./assets/images/skills/c.png"
+    "name": "HTML",
+    "image": "./assets/images/skills/html.png"
   },
   {
-    "name": "C++",
+    "name": "CPP",
     "image": "./assets/images/skills/cpp.png"
   },
   {
@@ -24,27 +24,28 @@
     "image": "./assets/images/skills/python.png"
   },
   {
-    "name": "Power BI",
+    "name": "powerbi",
     "image": "./assets/images/skills/powerbi.png"
   },
   {
-    "name": "ReactJS",
+    "name": "React",
     "image": "./assets/images/skills/react.png"
   },
   {
-    "name": "MySQL",
+    "name": "mysqL",
     "image": "./assets/images/skills/mysql.png"
   },
   {
-    "name": "VB.NET",
+    "name": "vb.net",
     "image": "./assets/images/skills/vb.net.png"
   },
   {
-    "name": "Firebase",
+    "name": "FireBase",
     "image": "./assets/images/skills/firebase.png"
   },
   {
-    "name": "GitHub",
+    "name": "Github",
     "image": "./assets/images/skills/github.png"
 }
 ]
+ 
