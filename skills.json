@@ -1,14 +1,14 @@
  [
   {
-    "name": "c",
+    "name": "C",
     "image": "./assets/images/skills/c.png"
   },
  {
-    "name": "css",
+    "name": "CSS",
     "image": "./assets/images/skills/css.png"
   },
   {
-    "name": "javascript",
+    "name": "Javascript",
     "image": "./assets/images/skills/javascript.png"
   },
   {
@@ -24,7 +24,7 @@
     "image": "./assets/images/skills/python.png"
   },
   {
-    "name": "powerbi",
+    "name": "PowerBI",
     "image": "./assets/images/skills/powerbi.png"
   },
   {

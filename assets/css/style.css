@@ -481,7 +481,7 @@ header .navbar ul li a:hover {
 }
 .skills .container .row {
   display: grid;
-  grid-template-columns: repeat(6, 1fr);
+  grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
   flex-wrap: wrap;
   gap: 1.8rem;
 }
@@ -496,6 +496,11 @@ header .navbar ul li a:hover {
 .skills .container .bar:hover {
   box-shadow: 0 8px 10px rgba(0, 2, 68, 0.8) !important;
   background-color: rgba(0, 0, 0, 0.9) !important;
+}
+.skills .container .bar img {
+  max-width: 60px;
+  max-height: 60px;
+  object-fit: contain;
 }
 .skills .container .bar .info {
   display: flex;
